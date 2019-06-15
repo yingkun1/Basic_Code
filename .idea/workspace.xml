@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a671963-c890-4475-9147-4914e7e3d050" name="Default Changelist" comment="" />
+    <list default="true" id="9a671963-c890-4475-9147-4914e7e3d050" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,20 +17,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo04/Demo01Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo04/Person.java">
+        <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo05/Demo04ArrayListReturn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            <state relative-caret-position="204">
+              <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,6 +37,18 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Person</find>
+      <find>smalllist</find>
+      <find>biglist</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Student</replace>
+      <replace>smalllist</replace>
+      <replace>big_list</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -68,6 +77,31 @@
         <option value="$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo03/Demo04Student.java" />
         <option value="$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo04/Demo01Person.java" />
         <option value="$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo04/Person.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo04/Student.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo04/Demo02Student.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo05/Student.java" />
+        <option value="$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo05/Demo01Student.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo01/Demo01Scanner.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo01/Demo02ScannerSum.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo01/Demo03ScannerMax.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo02/Person.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo02/Demo01Anonymous.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo02/Demo02Anonymous.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo03/Demo01Random.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo03/Demo02Random.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo03/Demo03Random.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo03/Demo04Random.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo04/Person.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo04/Demo01Array.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo04/Demo02ArrayList.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo04/Demo03ArrayListMethod.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo04/Demo04ArrayListEach.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo04/Demo05ArrayListBasic.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo05/Demo01ArrayListRandom.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo05/Student.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo05/Demo02ArrayListStudent.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo05/Demo03ArrayListPrint.java" />
+        <option value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo05/Demo04ArrayListReturn.java" />
       </list>
     </option>
   </component>
@@ -85,37 +119,37 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day06-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day07-code" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day06-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day07-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day06-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day07-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
+              <item name="day07" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="basic_code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day06-code" type="462c0819:PsiDirectoryNode" />
+              <item name="day07-code" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day06" type="462c0819:PsiDirectoryNode" />
-              <item name="demo04" type="462c0819:PsiDirectoryNode" />
+              <item name="day07" type="462c0819:PsiDirectoryNode" />
+              <item name="demo05" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -123,17 +157,20 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8.0_201" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day05-code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cn.luffyyk.day06.demo02" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JAVA_CODE\IDEA_Project\day07-code\src\cn\luffyyk\day07" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -148,13 +185,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Demo01Person">
-    <configuration name="Demo01Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.luffyyk.day06.demo04.Demo01Person" />
-      <module name="day06-code" />
+  <component name="RunManager" selected="Application.Demo04ArrayListReturn">
+    <configuration name="Demo01ArrayListRandom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.luffyyk.day07.demo05.Demo01ArrayListRandom" />
+      <module name="day07-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.luffyyk.day06.demo04.*" />
+          <option name="PATTERN" value="cn.luffyyk.day07.demo05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo02Mehtod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.luffyyk.day06.demo03.Demo02Mehtod" />
-      <module name="day06-code" />
+    <configuration name="Demo02ArrayListStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.luffyyk.day07.demo05.Demo02ArrayListStudent" />
+      <module name="day07-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.luffyyk.day06.demo03.*" />
+          <option name="PATTERN" value="cn.luffyyk.day07.demo05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo03Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.luffyyk.day06.demo03.Demo03Person" />
-      <module name="day06-code" />
+    <configuration name="Demo03ArrayListPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.luffyyk.day07.demo05.Demo03ArrayListPrint" />
+      <module name="day07-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.luffyyk.day06.demo03.*" />
+          <option name="PATTERN" value="cn.luffyyk.day07.demo05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -188,12 +225,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo04Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.luffyyk.day06.demo03.Demo04Student" />
-      <module name="day06-code" />
+    <configuration name="Demo04ArrayListReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.luffyyk.day07.demo05.Demo04ArrayListReturn" />
+      <module name="day07-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.luffyyk.day06.demo03.*" />
+          <option name="PATTERN" value="cn.luffyyk.day07.demo05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo05PhoneReturn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.luffyyk.day06.demo02.Demo05PhoneReturn" />
-      <module name="day06-code" />
+    <configuration name="Demo05ArrayListBasic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.luffyyk.day07.demo04.Demo05ArrayListBasic" />
+      <module name="day07-code" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.luffyyk.day06.demo02.*" />
+          <option name="PATTERN" value="cn.luffyyk.day07.demo04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -216,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo01Person" />
-        <item itemvalue="Application.Demo04Student" />
-        <item itemvalue="Application.Demo03Person" />
-        <item itemvalue="Application.Demo02Mehtod" />
-        <item itemvalue="Application.Demo05PhoneReturn" />
+        <item itemvalue="Application.Demo04ArrayListReturn" />
+        <item itemvalue="Application.Demo03ArrayListPrint" />
+        <item itemvalue="Application.Demo02ArrayListStudent" />
+        <item itemvalue="Application.Demo01ArrayListRandom" />
+        <item itemvalue="Application.Demo05ArrayListBasic" />
       </list>
     </recent_temporary>
   </component>
@@ -237,12 +274,13 @@
       <workItem from="1560431082416" duration="3185000" />
       <workItem from="1560434385761" duration="27000" />
       <workItem from="1560434434560" duration="5373000" />
-      <workItem from="1560476486714" duration="9403000" />
+      <workItem from="1560476486714" duration="26010000" />
+      <workItem from="1560564155144" duration="4415000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17988000" />
+    <option name="totallyTimeSpent" value="39010000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -257,7 +295,7 @@
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25378788" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -266,7 +304,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38474026" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.9512987" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -275,7 +313,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32954547" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32850242" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32954547" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32792208" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -485,17 +523,259 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo04/Demo01Person.java">
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo04/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        <state relative-caret-position="205">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo04/Person.java">
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo04/Demo01Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        <state relative-caret-position="96">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo04/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+          <folding>
+            <element signature="e#415#416#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#737#738#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+            <element signature="e#913#914#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo04/Demo02Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo05/Demo01Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day06-code/src/cn/luffyyk/day06/demo05/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <element signature="e#265#266#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#391#392#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo01/Demo01Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="23" column="44" lean-forward="true" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/day07-code.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo01/Demo02ScannerSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo01/Demo03ScannerMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo02/Demo01Anonymous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo02/Demo02Anonymous.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo03/Demo01Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo03/Demo02Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo03/Demo03Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo03/Demo04Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo02/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo04/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#259#260#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#385#386#0" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#446#447#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo04/Demo01Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="29" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo04/Demo02ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="23" column="59" selection-start-line="23" selection-start-column="59" selection-end-line="23" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo04/Demo03ArrayListMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="44" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo04/Demo04ArrayListEach.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="44" lean-forward="true" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo05.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo04/Demo05ArrayListBasic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo05/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#361#362#0" expanded="true" />
+            <element signature="e#388#389#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo05/Demo01ArrayListRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo05/Demo02ArrayListStudent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo05/Demo03ArrayListPrint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day07-code/src/cn/luffyyk/day07/demo05/Demo04ArrayListReturn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="18" column="55" selection-start-line="18" selection-start-column="55" selection-end-line="18" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -561,6 +841,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
