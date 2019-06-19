@@ -8,6 +8,8 @@ public class Demo01Extends {
         teacher.method();
 
         //创建了一个子类助教的的对象
+//        Assistant assistant = new Assistant();
+//        assistant.method();
         Assistant assistant = new Assistant();
         assistant.method();
     }
