@@ -2,6 +2,8 @@ package cn.luffyyk.day12.myutils;
 
 import cn.luffyyk.day12.myenum.Test;
 
+import java.util.Scanner;
+
 public class TestString {
     public static void main(String[] args) {
 //        String s1 = "abc";
@@ -19,10 +21,10 @@ public class TestString {
 //        System.out.println(str);
 //        str.equals(null);   //默认的equals是比较地址的 this==obj,但是String重写了这个方法，改成了比字符串内容
 //        str.hashCode();     //原来的hasHCode内存地址调用一个本地的native方法进行计算,现在是这样
-                            //"abc"     h=0
-                            //h = (0*31)+97
-                            //h = (97)*31+98
-                            //h = ((97)*31+98)*31+99
+        //"abc"     h=0
+        //h = (0*31)+97
+        //h = (97)*31+98
+        //h = ((97)*31+98)*31+99
 
 //        String str1 = "abc";
 //        String str2 = "cb";
@@ -72,18 +74,61 @@ public class TestString {
 //        long end = System.currentTimeMillis();
 //        System.out.println(end-start);
 
-        String str1 = "TestString.java";
-        boolean endsWith = str1.endsWith(".java");
-        System.out.println(endsWith);
+//        String str1 = "TestString.java";
+//        boolean endsWith = str1.endsWith(".java");
+//        System.out.println(endsWith);
+//
+//        String str2 = "我爱你中国";
+//        byte[] bytes = str2.getBytes();
+//        for (int i = 0; i < bytes.length; i++) {
+//            System.out.println(bytes[i]);
+//        }
+//
+//        String str3 = "ajgjgjhfhdzezw";
+//        int index = str3.lastIndexOf('z');
+//        System.out.println(index);
 
-        String str2 = "我爱你中国";
-        byte[] bytes = str2.getBytes();
-        for (int i = 0; i < bytes.length; i++) {
-            System.out.println(bytes[i]);
-        }
+//        String str1 = "";
+//        String str2 = null;
+//        boolean empty = str2.isEmpty();//NullPointerException
+//        System.out.println(empty);
 
-        String str3 = "ajgjgjhfhdzezw";
-        int index = str3.lastIndexOf('z');
-        System.out.println(index);
+//        String str = "拓哥很帅气拓哥很帅气拓哥很帅气拓哥很帅气拓哥很帅气拓哥很帅气";
+//        String replace = str.replaceFirst("帅气","美丽");
+//        System.out.println(replace);
+
+//        String str = "a-b-c-d";
+//        String[] split = str.split("-",2);
+//        for (int i = 0; i < split.length; i++) {
+//            System.out.println(split[i]);
+//        }
+
+//        String[] useBox = {"郑中拓-123", "渡一教育-666", "java-888"};
+//        Scanner sc = new Scanner(System.in);
+//        System.out.println("请输入账号：");
+//        String name = sc.nextLine();
+//        System.out.println("请输入密码：");
+//        String password = sc.nextLine();
+//        boolean flag = false;
+//        while (true) {
+//
+//            for (int i = 0; i < useBox.length; i++) {
+//                String[] value = useBox[i].split("-");
+//                if (value[0].equals(name) && value[1].equals(password)) {
+//                    System.out.println("登录成功");
+//                    flag = true;
+//                    break;
+//
+//                }
+//            }
+//            if (!flag) {
+//                System.out.println("账号或者密码错误!");
+//                break;
+//            }
+//        }
+        String str = "abcdefg";
+        String substring = str.substring(3,5);
+        System.out.println(substring);
+
     }
 }
