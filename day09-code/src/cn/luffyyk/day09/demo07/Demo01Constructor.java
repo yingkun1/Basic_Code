@@ -11,7 +11,7 @@ package cn.luffyyk.day09.demo07;
 
 public class Demo01Constructor {
 
-    public static void main(String[] args) {
+    public static void main(E[] args) {
         Zi zi = new Zi();
 
     }
